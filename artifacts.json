@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/AustinLe/artifact-directory-template.git",
     "project-repository": "https://github.com/Rebecca9785/NBA_Game_Prediction.git",
-    "dockerhub-repository": "austinle/180dock:tagname",
+    "dockerhub-repository": "austinle/180dock:latest",
     "project-website-url": "https://austinle.github.io",
     "project-website-code": "https://github.com/AustinLe/AustinLe.github.io.git"
 }
