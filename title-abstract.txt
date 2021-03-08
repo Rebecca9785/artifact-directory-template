@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+NBA Game Prediction
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+When working with an NBA dataset, we wanted to figure out the best way to represent a network like structure amongst the teams and figured that the amount of time that each player spends on the court with one another would prove useful. By extracting this network and projecting player statistics upon each node, we will utilize GraphSage, a framework that will embed node features onto each player and aggregate each team to predict whether or not they can make the playoffs.
